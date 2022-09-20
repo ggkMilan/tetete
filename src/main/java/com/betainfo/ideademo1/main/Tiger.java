@@ -6,4 +6,5 @@ package com.betainfo.ideademo1.main;
  **/
 public class Tiger {
   private String name;
+  private int age;
 }
